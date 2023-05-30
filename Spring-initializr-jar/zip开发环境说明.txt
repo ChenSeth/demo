@@ -1,0 +1,24 @@
+--demo20230526-01.zip
+描述：https://start.spring.io/生成的
+开发工具：IDEA （2023）
+JDK版本： JDK 1.8
+Spring Boot版本：2.7.12
+Maven版本：3.6.3
+打包：jar
+
+--demo20230526-02.zip
+描述：https://start.spring.io/生成的
+开发工具：IDEA （2023）
+JDK版本： JDK 17
+Spring Boot版本：3.1.0
+Maven版本：3.6.3
+打包：jar
+
+--SpringBoot2.7.12_demo.zip
+描述：基于demo20230526-01.zip 搭建实际项目开发中的架构，参考经典学习笔记第18课优化版
+开发工具：IDEA 2017-2023
+JDK版本： JDK 1.8
+Spring Boot版本：2.7.12
+Maven版本：3.6.3 使用阿里maven
+knife4j版本：3.0.3
+打包方式：jar

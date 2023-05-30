@@ -1,0 +1,8 @@
+--SpringBoot2.7.12_demo.zip
+描述：搭建实际项目开发中的架构 经典学习笔记第18课优化版，
+开发工具：IDEA 2017-2023
+JDK版本： JDK 1.8
+Spring Boot版本：2.7.12
+Maven版本：3.6.3
+knife4j版本：3.0.3
+打包方式：jar
